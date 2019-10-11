@@ -1,0 +1,5 @@
+Sinespace Editor Pack 14.294.7224-nightly
+Intended for Unity version 2018.3
+
+- Bug Fix/Improvement:  revert one line to the old style to avoid the bone unfind problem when change sliders in outfit window.
+- And 2 internal fixes or features

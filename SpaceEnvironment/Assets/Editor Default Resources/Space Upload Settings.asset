@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1667747794, guid: 9f8a3f4be43762947b7aca4f4a5a46eb, type: 3}
+  m_Name: Space Upload Settings
+  m_EditorClassIdentifier: 
+  CuratorAPIKey: mHxGaaEDEUBEeBRqkORdcqsjWhPqUmjWYBpoDhSu
+  UsernameOrEmail: ryan_morrisuk@hotmail.co.uk
+  Password: 
+  RealName: 
+  Business: N/A
+  Address: 
+  AcceptEULA: 1
+  Telemetry: 1
+  StagingLoginEmail: 
+  StagingLoginPassword: 
+  LiveLoginEmail: t@t.com
+  LiveLoginPassword: '@'
+  DefaultBrandName: 
+  DefaultBrandIcon: {fileID: 0}
+  DefaultInventoryIcon: {fileID: 0}
+  DefaultCopyright: (C)2019 Insert Name Here
+  IsSetEULA: 1
+  UserID: 2441049
+  EnableModIo: 0
